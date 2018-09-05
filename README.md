@@ -1,5 +1,7 @@
 # Altair Tutorial
 
+![Altair Card](./altair-card-2.png)
+
 ## Acknowledgments
 
 Much of this tutorial comes from [Jake Vanderplas' Altair
