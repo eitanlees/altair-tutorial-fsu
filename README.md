@@ -1,6 +1,6 @@
 # Altair Tutorial
 
-![Altair Card](./images/altair-card-2.png)
+<a href="https://altair-viz.github.io/gallery/"><img src="https://raw.githubusercontent.com/eitanlees/altair-tutorial/master/images/altair-card-2.png" alt='altair gallery'></a>
 
 Notebooks for the Altair tutorial, given at the Department of Scientific Computing
 
