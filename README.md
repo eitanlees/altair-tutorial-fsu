@@ -12,6 +12,8 @@ See the Altair documentation at http://altair-viz.github.io/
 
 If you have a Google/Gmail account, you can Run this tutorial from your browser using Colab: [Open in Colab](https://colab.research.google.com/github/eitanlees/altair-tutorial/blob/master/Index.ipynb).
 
+Otherwise to get Altair and its dependencies installed, please follow the [Installation Instructions](https://altair-viz.github.io/getting_started/installation.html) on Altair's website.
+
 ## Acknowledgments
 
 Much of this tutorial comes from [Jake Vanderplas' Altair
