@@ -1,6 +1,6 @@
 # Altair Tutorial
 
-![Altair Card](./altair-card-2.png)
+![Altair Card](./images/altair-card-2.png)
 
 Notebooks for the Altair tutorial, given at the Department of Scientific Computing
 
