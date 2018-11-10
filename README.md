@@ -8,6 +8,8 @@ Notebooks for the Altair tutorial, given at the Department of Scientific Computi
 
 View the content at [Index.ipynb](Index.ipynb)
 
+The slides presented can be view here: [Altair Tutorial Slides](https://speakerdeck.com/eitanlees/altair-tutorial)
+
 See the Altair documentation at http://altair-viz.github.io/
 
 ## Run the Tutorial
